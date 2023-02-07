@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+    background-color: #efefef;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #336699;
+    text-align: center;
+}
+
+p {
+    font-size: 1.2em;
+    line-height: 1.4em;
+    margin: 1em 0;
+    text-align: center;
+}
+
+/* Navigation Bar */
+nav {
+    background-color: #336699;
+    padding: 0.8em;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav a {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 0.5em;
+}
+
+nav a:hover {
+    background-color: #666;
+}
